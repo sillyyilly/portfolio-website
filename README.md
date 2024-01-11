@@ -1,2 +1,2 @@
 # Portfolio for projects 
-Code for website diplaying my projects and work
+Code for website displaying my projects and work
